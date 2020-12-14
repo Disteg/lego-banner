@@ -7,7 +7,7 @@
     body {
       align-items: center;
       justify-content: center;
-      background-color: white;
+      background-color: #F7AF69;
     }
     .phone__media {
       display: none;
@@ -26,7 +26,7 @@
 
 html, body {
     width: 100%;
-    background: white;
+    background: #F7AF69;
     height: 100%;
     display: flex;
     justify-content: center;
@@ -114,7 +114,7 @@ div {
 
 
 
-.contentProductView13 {
+.contentProductView {
   display: none;
   width: 309.27px;
   height: 140.14px;
@@ -124,23 +124,7 @@ div {
   display: block;
 }
 
-.contentProductView14 {
-  display: none;
-  width: 309.27px;
-  height: 140.14px;
-}
 
-.contentProductView15 {
-  display: none;
-  width: 309.27px;
-  height: 140.14px;
-}
-
-.contentProductView07 {
-  display: none;
-  width: 309.27px;
-  height: 140.14px;
-}
 
 
 .contentProduct {
