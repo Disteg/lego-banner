@@ -1,0 +1,262 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+  @media screen and (max-width: 900px) {
+    body {
+      align-items: center;
+      justify-content: center;
+      background-color: white;
+    }
+    .phone__media {
+      display: none;
+    }
+    .container {
+      top: 0;
+      left: 0;
+    }
+    .phone {
+      width: 321px;
+      height: 481px;
+      top: 0;
+      left: 0;
+    }
+  }
+
+html, body {
+    width: 100%;
+    background: white;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.phone {
+    position: relative;
+    height: 621px;
+    width: 361px;
+    display: flex;
+    justify-content: center;
+    top: 10%;
+}
+
+
+
+.phone__media {
+    height: 621px;
+    width: 361px;
+    position: relative;
+}
+
+div {
+    position: absolute;
+  }
+
+  .content {
+    width: 320px;
+    height: 480px;
+    box-sizing: border-box;
+    overflow: hidden;
+    left: 0;
+    right: 0;
+    top: 11.5%;
+    margin: auto;
+    background: url('../img/Canvas.svg');
+    z-index: 1;
+    
+}
+
+
+
+
+.logo {
+    background: url("../img/DOTS_Logo_Main_V1.svg");
+    width: 129px ;
+    height: 35px;
+    top: 7px ;
+    left: 7px;
+}
+
+
+.headliner {
+    background: url("../img/Headline.svg");
+    width: 178.08px;
+    height: 82.58px;
+    top: 46.4px;
+    left: 64px;
+}
+
+.video {
+    width: 229px;
+    height: 129px;
+    top: 140px;
+    left: 41px;
+    z-index: 1;
+
+}
+
+.product {
+  width: 305.88px;
+  height: 156.79px;
+  top: 288.5px;
+  left: 7.1px;
+}
+
+.buttonLeft {
+  width: 11px;
+  height: 11px;
+  background: url("../img/PolygonOne.svg");
+  top: 49.5px;
+  left: 17px;
+  cursor: pointer;
+}
+
+
+
+.contentProductView13 {
+  display: none;
+  width: 309.27px;
+  height: 140.14px;
+}
+
+.viwe {
+  display: block;
+}
+
+.contentProductView14 {
+  display: none;
+  width: 309.27px;
+  height: 140.14px;
+}
+
+.contentProductView15 {
+  display: none;
+  width: 309.27px;
+  height: 140.14px;
+}
+
+.contentProductView07 {
+  display: none;
+  width: 309.27px;
+  height: 140.14px;
+}
+
+
+.contentProduct {
+  width: 309.27px;
+  height: 140.14px;
+  display: block;
+}
+
+.imgProduct13 {
+  width: 150.22px;
+  height: 98.71px;
+  background: url('../img/product13/Bracelets.svg');
+  left: 81px;
+  
+}
+
+.textproduct13 {
+  width: 305.88px;
+  height: 17px;
+  background: url('../img/product13/TextFre.svg');
+  top: 115px;
+}
+
+.imgProduct14 {
+  width: 163.53px;
+  height: 118.5px;
+  background: url('../img/product14/BilderrahmenImg.svg');
+  left: 81px;
+}
+
+.textproduct14 {
+  width: 305.88px;
+  height: 17px;
+  background: url('../img/product14/BilderrahmenText.svg');
+  top: 115px;
+}
+
+
+.imgProduct15 {
+  width: 150.22px;
+  height: 98.71px;
+  background: url('../img/product13/Bracelets.svg');
+  left: 81px;
+}
+
+.textproduct15 {
+  width: 305.88px;
+  height: 17px;
+  background: url('../img/product13/TextFre.svg');
+  top: 115px;
+}
+
+.imgProduct07 {
+  width: 150.22px;
+  height: 98.71px;
+  background: url('../img/product13/Bracelets.svg');
+  left: 81px;
+}
+
+.textproduct07 {
+  width: 305.88px;
+  height: 17px;
+  background: url('../img/product13/TextFre.svg');
+  top: 115px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.buttonRiht {
+  width: 11px;
+  height: 11px;
+  background: url("../img/PolygonTwo.svg");
+  top: 49.5px;
+  right: 12px;
+  cursor: pointer;
+}
+
+.buttonBlue {
+ width: 119px;
+ height: 32px;
+ top: 431px;
+ left: 100px;
+ background: url('../img/ShopNow.svg');
+}
+
+.logoDown {
+  width: 35px;
+  height: 35px;
+  background: url('../img/lego_logo_srgb.svg');
+  top: 438px;
+  left: 7px;
+}
+
+.TheLogoGround {
+  width: 66px;
+  height: 8px;
+  top: 466.6px;
+  left: 126.6px;
+  background: url('../img/LEGO.svg');
+}
+
+.W {
+width: 30px;
+height: 30px;
+top: 456px;
+left: 286px;
+background: url("../img/wiu.svg");
+}
