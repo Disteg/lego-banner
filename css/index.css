@@ -67,6 +67,29 @@ div {
     
 }
 
+.fonOne {
+  width: 253px;
+  height: 200px;
+  left: -167px;
+  background: url('../img/fon/DOTS.svg');
+  z-index: 2;
+}
+
+.fonTwo {
+  width: 1123.38px;
+  height: 649.93px;
+ left: 60.79px;
+  background: url('../img/fon/DOTS2.svg');
+  z-index: 2;
+}
+
+.fonThree {
+width: 53px;
+height: 108px;
+top: 181px;
+z-index: 2;
+background-image: url('../img/fon/41911_SoMe_03.svg');
+}
 
 
 
