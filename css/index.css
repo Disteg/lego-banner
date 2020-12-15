@@ -78,7 +78,8 @@ div {
 .fonTwo {
   width: 1123.38px;
   height: 649.93px;
- left: 60.79px;
+ left: 80.79px;
+ top: -32px;
   background: url('../img/fon/DOTS2.svg');
   z-index: 2;
 }
@@ -114,7 +115,7 @@ background-image: url('../img/fon/41911_SoMe_03.svg');
     width: 229px;
     height: 129px;
     top: 140px;
-    left: 41px;
+    left: 45px;
     z-index: 1;
 
 }
